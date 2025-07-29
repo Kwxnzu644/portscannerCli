@@ -22,8 +22,6 @@ Features **predefined port profiles**, real-time **colored output**, and **scan 
 
 ## 📂 Project Structure
 
----
-
 ## ⚙️ Installation & Requirements
 ### 1️⃣ Clone the repository
 ```bash
