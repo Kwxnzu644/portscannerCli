@@ -1,4 +1,4 @@
-# 🔍 Python Port Scanner – Customizable Profiles
+# 🔍 Python Port Scanner
 
 A lightweight **command-line port scanner** built in Python for quick network diagnostics and **red team reconnaissance**.  
 Features **predefined port profiles**, real-time **colored output**, and **scan logging**.
