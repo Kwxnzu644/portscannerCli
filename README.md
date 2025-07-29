@@ -30,8 +30,5 @@ Features **predefined port profiles**, real-time **colored output**, and **scan 
 git clone https://github.com/Kwxnzu644/portscannerCli.git
 cd portscannerCli
 pip install colorama
-python3 port.py -t <TARGET_IP>
--m, --message   Custom banner message (default: "PORT SCANNER")
--t, --target    Target IP address to scan (required)
--o, --output    Output log file (default: "file.log")
+
 
