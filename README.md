@@ -19,9 +19,6 @@ Features **predefined port profiles**, real-time **colored output**, and **scan 
 - **Error Handling** for unreachable hosts or ports  
 
 ---
-
-## 📂 Project Structure
-
 ## ⚙️ Installation & Requirements
 ### 1️⃣ Clone the repository
 ```bash
